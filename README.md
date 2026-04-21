@@ -44,14 +44,14 @@ This will:
 
 ### Step 2 – Configure Connection
 
-Use the following settings:
+Use the following settings (Only if you didnt change the original configuration):
 
 - Host: `localhost`  
 - Port: `5433`  
 - Database: `demo_db`  
 - Username: `postgres`  
 - Password: `pass`  
-(Only if you didnt change the original configuration)
+
 Click **Test Connection → Finish**
 
 ---
