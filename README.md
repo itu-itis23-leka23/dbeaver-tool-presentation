@@ -87,6 +87,9 @@ Example output:
 | Edi   | Headphones | 5       |
 | Maria | Laptop     | 1       |
 
+### Screenshot
+
+![Query Result](screenshots/query_result.png)
 ---
 
 ## 6. AI Usage Disclosure
