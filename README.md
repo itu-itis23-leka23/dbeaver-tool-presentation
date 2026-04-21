@@ -50,8 +50,8 @@ Use the following settings:
 - Port: `5433`  
 - Database: `demo_db`  
 - Username: `postgres`  
-- Password: `postgres`  
-
+- Password: `pass`  
+(Only if you didnt change the original configuration)
 Click **Test Connection → Finish**
 
 ---
