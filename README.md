@@ -94,4 +94,4 @@ Example output:
 
 ## 6. AI Usage Disclosure
 
-AI tools such as Gemini and ChatGPT were used to assist with debugging Docker configuration.
+AI tools such as Gemini and ChatGPT were used to assist with debugging Docker configuration and I also used AI generated notes so I could read during the slide presentation video in order to ensure a clear, understandable and eloquent speech.
